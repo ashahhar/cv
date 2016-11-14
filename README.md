@@ -1,6 +1,6 @@
 # CV
 
-A simple, modern CV / resume template. Click [here](http://www.smddzcy.com/cv/) to see an example.
+A simple, modern CV / resume template. Click [here](https://ashahhar.github.io/cv/) to see an example.
 
 ## Creating Your CV
 
